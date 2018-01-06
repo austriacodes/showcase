@@ -28,7 +28,7 @@ Example:
 (Source: [_data/showcase.yml](_data/showcase.yml))
 
 
-### Step 2: Upload a thumbnail preview picture (300x200 pixels)
+### Step 2: Upload a thumbnail preview picture (250x200 pixels)
 
 Example:
 
