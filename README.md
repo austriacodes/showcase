@@ -1,4 +1,4 @@
-# Learn by Example - (Static) Website Compiler Showcase - Jekyll • Hugo • Gatsby and Friends
+# Learn by Example - Static Website Compiler Showcase - Jekyll • Hugo • Gatsby and Friends
 
 
 See live @ [`austriacodes.github.io/showcase` »](https://austriacodes.github.io/showcase)
@@ -25,7 +25,7 @@ Example:
     github: Lorti
 ```
 
-(Source: [_data/showcase.yml](_data/showcase.yml))
+(Source: [`_data/showcase.yml`](_data/showcase.yml))
 
 
 ### Step 2: Upload a thumbnail preview picture (250x200 pixels)
@@ -34,7 +34,7 @@ Example:
 
 ![](thumbnails/manu.png)
 
-(Source: [thumbnails/manu.png](thumbnails/manu.png))
+(Source: [`thumbnails/manu.png`](thumbnails/manu.png))
 
 
 ### Step 3: That's it. Thanks!
