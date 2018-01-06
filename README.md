@@ -1,8 +1,8 @@
-# Learn by Example - Static Website Compiler Showcase - Jekyll • Hugo • Gatsby and Friends
-
-
 See live @ [`austriacodes.github.io/showcase` »](https://austriacodes.github.io/showcase)
 
+----
+
+# Learn by Example - Static Website Compiler Showcase - Jekyll • Hugo • Gatsby and Friends
 
 
 ## Add your website in 1-2-3 Easy Steps
