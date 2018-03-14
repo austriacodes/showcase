@@ -1,7 +1,20 @@
 ###########################################################
 #  Static Website Showcase Sites (with Open Sources)
 #   - Learn by Example
-#  
+#
+
+
+- title:     Panod.io (Panoptikum Audio)
+  subtitle:  An audio interface to the acoustic web
+  live:      https://panod.io
+  source:    https://github.com/PanoptikumIO/panod.io
+  tags:     [project, multilingual]
+  tools:    [jekyll, liquid, bootflat]
+  thumbnail: panodio.png
+  author:
+    name:   Stefan Haslinger
+    github: haslinger
+
 
 - title:     Michael Bromley
   subtitle:  Hi, I'm a front-end developer
@@ -108,7 +121,7 @@
   author:
     name:   Gerald Bauer
     github: geraldb
-    
+
 
 - title:     Hi, I'm Manuel
   subtitle:  I make web applications, games and digital art
